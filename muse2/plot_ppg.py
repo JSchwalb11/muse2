@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import csv
-import tkinter
 
 x=[]
 y=[]
